@@ -1,0 +1,2 @@
+# myclass
+visual basic class
